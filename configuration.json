@@ -1,0 +1,9 @@
+{
+    "token":"paste token here",
+    "id":"paste bot id here",
+    "word":"put phrase here.",
+    "mainguild":"put guild id here",
+    "mainrole":"put role id here",
+    
+    "log":"put logging channel id here"
+}
