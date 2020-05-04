@@ -56,7 +56,7 @@ client.on("ready", async () => {
 
 client.on("message", async (msg) => {
     if(msg.channel instanceof Discord.DMChannel) {
-    if(msg.content !== 'end of the rules') return
+    if(msg.content !== Key.word) return
     else
 
     var mg = client.guilds.get(Key.mainguild)
